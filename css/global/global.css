@@ -30,6 +30,7 @@ a {
 
 img {
   max-width: 100%;
+  height: auto;
   display: block;
 }
 /* seleciona só os elementos src que termina com .jpg */
