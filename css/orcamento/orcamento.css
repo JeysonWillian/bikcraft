@@ -154,8 +154,6 @@
   height: 9px;
 }
 
-
-
 .orcamento-produto input:checked + label + .orcamento-detalhes {
   display: grid;
 }
